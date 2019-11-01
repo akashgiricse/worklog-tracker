@@ -19,7 +19,7 @@
     "graphql": "^14.4.2",
     "graphql-tag": "^2.10.1",
     "mysql2": "^1.6.5",
-    "sequelize": "^5.10.3"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
